@@ -25,7 +25,7 @@ Security      →  OWASP ZAP
 Performance   →  k6 · jMeter
 Debugging     →  Chrome DevTools · HttpCanary · OBS Studio
 Tracking      →  Jira
-Frontend      →  HTML · CSS · JavaScript
+Frontend      →  React · 
 ```
 
 ---
@@ -57,8 +57,6 @@ A full automation suite built to demonstrate real-world QA practices.
 ## Currently
 
 - Open to **remote QA/SDET roles** globally
-- Deepening automation skills in Playwright and CI/CD pipelines
-- Building toward fullstack development
 
 ---
 

@@ -1,4 +1,4 @@
-# Hi, I'm Pius Olumide 👋
+# Hi, I'm Pius Olumide 
 
 QA Engineer focused on building reliable, secure software through automation, API validation, and security testing.
 
@@ -32,7 +32,7 @@ Frontend      →  React ·
 
 ## Featured Project
 
-### 🎯 [Playwright E2E Test Suite — SauceDemo](https://github.com/Pius931/playwright-saucedemo-tests)
+###  [Playwright E2E Test Suite — SauceDemo](https://github.com/Pius931/playwright-saucedemo-tests)
 
 A full automation suite built to demonstrate real-world QA practices.
 

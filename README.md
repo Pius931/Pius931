@@ -47,10 +47,11 @@ A full automation suite built to demonstrate real-world QA practices.
 
 | Domain | What I tested |
 |---|---|
-| Healthcare (EHMS) | Multi-role portals, OTP/auth flows, payment systems |
-| Fintech | Wallet funding, withdrawals, transaction histories |
+| Healthcare (EHMS) | Multi-role portals, KYC, OTP/auth flows, payments, role-based workflows |
+| Fintech | Fiat & crypto wallets, payment & transaction flows, buy/sell/send/receive, API validation, automation & security testing |
 | Legal Tech | API integrity, performance under load |
 | Logistics | Booking and payment user journeys |
+| Marketplace / E-commerce | Buyer & seller workflows, payments, product journeys, cart & checkout, order tracking |
 
 ---
 
